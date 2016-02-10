@@ -1,1 +1,6 @@
 https://github.com/hybridgroup/kidsruby.git
+
+Pour faire un nouveau commit : 
+$ git add README
+$ git commit -m 'commentaire'
+$ git push
